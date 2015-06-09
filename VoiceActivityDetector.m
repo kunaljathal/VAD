@@ -1,7 +1,5 @@
 % *************************************************************************
 % Kunal Jathal
-% N19194426
-% DST 2 - Final Project
 % 
 % VOICE ACTIVITY DETECTOR
 %
